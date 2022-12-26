@@ -3,3 +3,6 @@
 1)Password(1D and 2D)
 2)Alice and Bob
 3)Supermans Encounter(10 Days)
+4)Dynammic Programming
+5)Memoisation and Tabulation for fibonacci sequence
+6)Staircase problem
