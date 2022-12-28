@@ -1,0 +1,8 @@
+Agenda - 28/12/2022
+
+1)Greedy Algorithm
+2) Coin denomination
+3) Travelling Salesman problem
+4)Lemonade Probleme
+5)Gas Station
+6)
