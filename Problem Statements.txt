@@ -1,0 +1,7 @@
+Crest and Troughs Similar Problems:
+
+https://www.geeksforgeeks.org/best-time-to-buy-and-sell-stock/
+https://intellectivetech.blogspot.com/2020/03/hackwithinfy-problem-crests-and-troughs.html?m=1
+https://www.geeksforgeeks.org/infosys-hackwithinfy-2019-ses-interview/
+
+2.Find the largest index difference of the decreasing index elements
